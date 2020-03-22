@@ -1,0 +1,16 @@
+Testul 1:
+valoare maxima este 20003 nr. maxim de elemente este 2074
+Countsort a fost sortat in  0.132 secunde 
+Bubble Sort a fost sortat in 0.665 secunde 
+Radixsort in baza 10 a fost sortat in 0.836 secunde 
+Radixsort in baza 256 a fost sortat in 0.001 secunde 
+Mergesort a fost sortat in 0.007 secunde 
+Quicksort a fost sortat in 0.008 secunde 
+Testul 2:
+valoare maxima este 200 nr. maxim de elemente este 124343
+Countsort a fost sortat in  0.214 secunde 
+Bubble Sort Nu se poate sorta 0.0 secunde 
+Radixsort in baza 10 NU a fost sortat in 0.554 secunde 
+Radixsort in baza 256 a fost sortat in 0.046 secunde 
+Mergesort a fost sortat in 1.067 secunde 
+Quicksort a fost sortat in 0.122 secunde 
